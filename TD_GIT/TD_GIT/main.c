@@ -4,5 +4,5 @@ int main()
 {
 	printf("Hello");
 	printf(" World !");
-	printf("coucou c’est moi ton binôme")
+	printf("coucou c’est moi ton binôme elliott")
 }
